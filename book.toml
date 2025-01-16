@@ -1,0 +1,10 @@
+[book]
+authors = ["Easy"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "方糖AI自编程入门"
+
+
+# [output.epub]
+# cover-image = "./images/cover.lg.jpg"
