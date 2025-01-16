@@ -23,7 +23,7 @@
 ## 电子书
 
 - 可使用 mdbook-epub 工具自行编译：`mdbook-epub --standalone true` 然后 epub 在 book 目录下
-- 在 Release 页面下载
+- 在官方网站下载(页面最下方)：<https://ft07.com/ai-self-coding-quick-start/>
 
 ## 在线阅读
 
