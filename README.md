@@ -2,7 +2,7 @@
 
 ![](./src/images/cover.jpg)
 
-这本书尝试教会普通人用自然语言和AI写出真正具有商业价值的复杂应用，而不是那些贪吃蛇玩具。[可以看看这个证据](https://www.bilibili.com/video/BV1BswgeWEkK/?vd_source=fade59d07328dbcb9a0988b7ce98b49d)。
+这本书尝试分享如何用自然语言和AI写出真正具有商业价值的复杂应用，而不是那些贪吃蛇玩具。[可以看看这个证据](https://www.bilibili.com/video/BV1BswgeWEkK/?vd_source=fade59d07328dbcb9a0988b7ce98b49d)。
 
 ## 作者信息
 
