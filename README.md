@@ -40,3 +40,4 @@
 
 1. [方糖AI自编程入门 ① AI编程的常见误区和PDTAC循环](https://www.bilibili.com/video/BV1f2cqeFEaA/)
 1. [方糖AI自编程入门 ② PDTAC循环开发流程实践](https://www.bilibili.com/video/BV1accBeDEbU/)
+2. [方糖AI自编程入门 ③ Web+全平台打包实战：Star Search 语义搜索应用](https://www.bilibili.com/video/BV1FMwseaEkE/)
